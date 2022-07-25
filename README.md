@@ -5,7 +5,7 @@ In this repo is stored all the cards that are collectible/obtainable in-game, fe
 ## New Cards
 For making new cards follow these rules:
 
-- Use the template that can be found [here](https://raw.githubusercontent.com/Metastruct/cards/master/template_single.png):
+- Use the template that can be found [here](https://github.com/Metastruct/cards/tree/master/cards):
 
 	![template](https://raw.githubusercontent.com/Metastruct/cards/master/cards/template_legendary.png)
 	![template](https://raw.githubusercontent.com/Metastruct/cards/master/cards/template_rare.png)
